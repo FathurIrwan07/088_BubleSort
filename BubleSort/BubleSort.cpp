@@ -46,6 +46,7 @@ void unsorted() {
     }
     cout << endl;                                       //output baris kosong
 }
+
 void display() {                                        //prosedur untuk menampilkan hasil
     cout << endl;                                       //output baris kosong
     cout << "================================" << endl; //output ke layar
@@ -56,6 +57,7 @@ void display() {                                        //prosedur untuk menampi
     }
     cout << endl;                                       //output baris kosong
 }
+
 
 
 
