@@ -58,7 +58,13 @@ void display() {                                        //prosedur untuk menampi
     cout << endl;                                       //output baris kosong
 }
 
-
+int main() {
+    input();            //memanggil prosedur input ()
+    unsorted();         //memanggil prosedur unsorted ()
+    bubbleSortAraay(); //memanggil prosedur bubbleSortAraay() 
+    display();          //memanggil prosedur display()
+    return 0;
+}
 
 
 
