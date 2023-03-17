@@ -44,4 +44,11 @@ void unsorted() {
     for (int j = 0; j < n; j++) {                       //looping dengan j dimulai dari 0 hingga n-1
         cout << a[j] << endl;                           //output ke layar
     }
+    cout << endl;                                       //output baris kosong
 }
+
+
+
+
+
+
